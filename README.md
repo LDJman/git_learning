@@ -1,2 +1,2 @@
 # git_learning
-this is learninf git
+this is learning git
